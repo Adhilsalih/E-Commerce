@@ -1114,6 +1114,10 @@ const razorpay = new Razorpay({
 
 // ------------------------- AUTH ROUTES -------------------------
 
+app.get("/", (req, res) => {
+  res.send("API is running...");
+});
+
 app.post('/register', async (req, res) => {
     try {
         const { username, email, password } = req.body;
