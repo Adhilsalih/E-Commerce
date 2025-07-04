@@ -8,7 +8,7 @@ const Footer = () => {
         
         {/* Brand & About */}
         <div>
-          <h2 className="text-2xl font-bold text-white mb-4">Shopverse</h2>
+          <h2 className="text-2xl font-bold text-white mb-4">Fetchit.</h2>
           <p className="text-sm">
             Your one-stop shop for the most futuristic fashion & electronics. Quality meets innovation.
           </p>
@@ -55,7 +55,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="mt-10 border-t border-gray-700 pt-6 px-6 flex flex-col sm:flex-row justify-between items-center text-sm text-gray-400">
-        <p>&copy; 2025 Shopverse. All rights reserved.</p>
+        <p>&copy; 2025 Fetchit. All rights reserved.</p>
         <div className="flex space-x-4 mt-4 sm:mt-0">
           <FaFacebookF className="hover:text-white cursor-pointer" />
           <FaInstagram className="hover:text-white cursor-pointer" />
