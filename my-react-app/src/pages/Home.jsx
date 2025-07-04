@@ -41,7 +41,7 @@ const Home = () => {
           />
           <div className="absolute top-14 left-8 md:left-12 text-white max-w-lg z-10">
             <p className="uppercase tracking-wider text-pink-300 text-sm mb-1 font-semibold">
-              SHOPVERSE
+              FETCHIT.
             </p>
             <h1 className="text-4xl md:text-5xl font-extrabold leading-tight mb-2">
               The Futuristic

@@ -620,7 +620,7 @@ const Navbar = () => {
             <div className="container mx-auto px-4 md:px-16 lg:px-24 py-4 flex justify-between items-center">
                 <div className="text-2xl font-extrabold tracking-wide">
                     <Link to="/" className="text-slate-800 hover:text-red-600 transition">
-                        Shopverse
+                        Fetchit.
                     </Link>
                 </div>
 
